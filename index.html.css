@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(111, 187, 206);
+}
+
+h1{
+
+    color: rgb(93, 38, 197);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+.header{
+
+    display: flex;
+    flex-direction: row;
+    flex-flow: row-reverse;
+    justify-content: flex-start;
+    background-color: darkcyan;
+    padding: 100px;
+}
+
+.comp
+{
+
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    row-gap: 10px;
+    justify-content: space-between;
+
+}
+.hlink{
+    display: flex;
+    margin-right: 10px;
+    padding-right: 20px;
+    justify-content: space-between;
+}

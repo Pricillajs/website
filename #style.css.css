@@ -1,0 +1,73 @@
+body{
+    text-align: center;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(202, 149, 85, 0.205);
+    color: brown;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-display: center;
+    word-wrap: 20cm;
+    background-color: black;
+    color: brown;
+}
+
+h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    font-display: center;
+    word-wrap: 10cm;
+    background-color: black;
+    color: brown;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 4px;
+
+}
+.row{
+    flex: 50%;
+    padding: 4px;
+}
+.row img{
+    margin-left: 8px;
+    vertical-align: middle;
+}
+
+.body{
+    background-image: url('img_poery.jp');
+}
+ .footer-container{
+    background-color: #212329;
+    padding-bottom: 4ren;
+ }
+ .footer-heading{
+    background-color: #000;
+    position: relative;
+    height: 100px;
+    margin-top: -100px;
+    clear: both;
+    
+ }
+ .footer-heading{
+    display: flex;
+    flex-direction: column;
+    margin-left: 4rems;
+ }
+
+
+    
+        
+
+ 
+ .body{
+      background-image: url('img_potry.jpg');
+      background-color: rgba(207, 140, 62, 0.884);
+ }
+ 
+   
